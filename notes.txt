@@ -1,0 +1,1 @@
+without creating instaces we can accsess , creating a copy u can call - static (without copy we can directly call)
